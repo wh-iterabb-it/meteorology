@@ -22,7 +22,7 @@
     "helmet": "3.21.2",
     "newrelic": "^6.2.0",
     "server-side-tools": "git+https://github.com/wh-iterabb-it/server-side-tools.git",
-    "superagent": "^5.1.3"
+    "superagent": "^5.2.1"
   },
   "devDependencies": {
     "chai": "4.2.0",
